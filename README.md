@@ -1,2 +1,2 @@
-# portal_revolution_russian
+# Portal: Революция
 Portal: Revolution на русском!
